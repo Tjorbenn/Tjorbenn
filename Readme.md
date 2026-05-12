@@ -1,6 +1,6 @@
 ### Hi, I'm Tjorben
 
-I'm a Master's student in **Molecular Life Science** at the University of Lübeck, focusing on the intersection of biology and computation (Bioinformatics).
+I'm a Doctoral researcher at the Medical Systems Biology group of the University of Lübeck, focusing on bioinformatics and computational biology.
 
 ---
 
